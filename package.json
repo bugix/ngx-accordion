@@ -1,6 +1,6 @@
 {
   "name": "@bugix/ngx-accordion",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "Simple accordion control for your angular applications using bootstrap.",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -12,6 +12,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/bugix/ngx-accordion.git"
+  },
+  "scripts": {
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/bugix/ngx-accordion/issues"
